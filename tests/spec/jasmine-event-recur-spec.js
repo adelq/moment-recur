@@ -1,7 +1,8 @@
 'use strict';
 
 // Getting rid of jshint warnings (the yellow lines and exclaimation points are annoying)
-var jasmine = jasmine, describe = describe, it = it, moment = moment, expect = expect, beforeEach = beforeEach;
+var jasmine = require('jasmine-node');
+var moment = require('../../moment-recur');
 
 
 // TOTEST:

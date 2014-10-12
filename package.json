@@ -4,17 +4,21 @@
   "description": "A momentjs plugin for matching and generating recurring dates.",
   "main": "moment-recur.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine-node tests/spec/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/c-trimm/moment-recur.git"
+    "url": "https://github.com/adelq/moment-recur.git"
   },
   "keywords": [
     "momentjs",
     "date",
     "recur"
   ],
-  "author": "Casey Trimm",
-  "license": "Unlicense"
+  "author": "Adel Qalieh",
+  "license": "Unlicense",
+  "dependencies": {
+    "jasmine-node": "^1.14.5",
+    "moment": "^2.8.3"
+  }
 }
