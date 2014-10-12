@@ -1,5 +1,6 @@
 moment-recur
 =====
+[![Build Status](https://travis-ci.org/adelq/moment-recur.svg)](https://travis-ci.org/adelq/moment-recur)
 [ ![Codeship Status for adelq/moment-recur](https://codeship.io/projects/e405c1d0-33ea-0132-3c6b-26237c03a86a/status)](https://codeship.io/projects/40687)
 
 moment-recur is a recurring date plugin for [momentjs](http://momentjs.com/). This plugin handles dates only; time information is discarded.
