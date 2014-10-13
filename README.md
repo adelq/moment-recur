@@ -3,6 +3,7 @@ moment-recur
 [![Build Status](https://travis-ci.org/adelq/moment-recur.svg)](https://travis-ci.org/adelq/moment-recur)
 [![Build Status](https://drone.io/github.com/adelq/moment-recur/status.png)](https://drone.io/github.com/adelq/moment-recur/latest)
 [ ![Codeship Status for adelq/moment-recur](https://codeship.io/projects/e405c1d0-33ea-0132-3c6b-26237c03a86a/status)](https://codeship.io/projects/40687)
+[![Coverage Status](https://img.shields.io/coveralls/adelq/moment-recur.svg)](https://coveralls.io/r/adelq/moment-recur?branch=master)
 
 moment-recur is a recurring date plugin for [momentjs](http://momentjs.com/). This plugin handles dates only; time information is discarded.
 
